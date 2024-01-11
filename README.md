@@ -13,3 +13,5 @@ the player draws one from the deal stack and if the player card is less than the
 draw none. This repeats for each player until either a player runs out of cards in which they win the
 game; or until the deal stack runs out of cards and the discard stack has one or fewer cards in it
 which then makes a tie game
+
+![2024-01-1018-15-18_8-ezgif com-optimize](https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/7e4d8f4a-ed06-4059-b40b-447b3f829fda)
