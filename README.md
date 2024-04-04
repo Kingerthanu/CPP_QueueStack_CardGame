@@ -5,6 +5,9 @@ decided by user are dealed seven cards in a dealer stack of cards in the range o
 There are 2 multiplied by the player size amount of each card in the dealers deck.
 The game starts with the dealing of the card then followed by the placement of a card in the
 discard stack.
+
+<img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/cd552e57-2f81-493a-b581-84b373f06c02" alt="Cornstarch <3" width="95" height="99">
+
 The main game loop follows a round-robin order which calls a certain list of actions to be
 done by a player class which is the active player. The player places his card in the discard stack and
 compares his card value with the value given by the top of the discard stack and if his card is 
