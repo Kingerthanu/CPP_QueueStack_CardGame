@@ -17,4 +17,19 @@ draw none. This repeats for each player until either a player runs out of cards 
 game; or until the deal stack runs out of cards and the discard stack has one or fewer cards in it
 which then makes a tie game
 
+
+----------------------------------------------
+<img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49">
+
+
+**The Breakdown:**
+
+
+
+<img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/49f02be1-5e36-4e54-94d1-9aea0ed9b210" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/49f02be1-5e36-4e54-94d1-9aea0ed9b210" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/49f02be1-5e36-4e54-94d1-9aea0ed9b210" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/49f02be1-5e36-4e54-94d1-9aea0ed9b210" alt="Cornstarch <3" width="55" height="49"> 
+
+
+----------------------------------------------
+
+
 ![2024-01-1018-15-18_8-ezgif com-optimize](https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/7e4d8f4a-ed06-4059-b40b-447b3f829fda)
