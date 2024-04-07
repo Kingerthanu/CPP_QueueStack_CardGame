@@ -1,7 +1,8 @@
 # CPP_QueueStack_CardGame
 
+A Game Of Cards In Which Each Player In The Game Is Given 7 Cards And In Order Win They Must Use All Their Cards Up. 
 
-
+The Game Instantiates Rules Though That Like A Game Of UNO Will Usually Make A Player Draw A Card Instead Of Losing.
 
 ----------------------------------------------
 <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49">
