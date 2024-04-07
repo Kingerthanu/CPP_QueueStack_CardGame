@@ -1,5 +1,14 @@
 # CPP_QueueStack_CardGame
 
+
+
+
+----------------------------------------------
+<img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49">
+
+
+**The Breakdown:**
+
 Uses ADT of queue and stack in card game in which a varying amount of players 
 decided by user are dealed seven cards in a dealer stack of cards in the range of 1-13.
 There are 2 multiplied by the player size amount of each card in the dealers deck.
@@ -16,15 +25,6 @@ the player draws one from the deal stack and if the player card is less than the
 draw none. This repeats for each player until either a player runs out of cards in which they win the
 game; or until the deal stack runs out of cards and the discard stack has one or fewer cards in it
 which then makes a tie game
-
-
-----------------------------------------------
-<img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/543acfe5-b48d-4375-ae77-95ec6efd8e4a" alt="Cornstarch <3" width="75" height="49">
-
-
-**The Breakdown:**
-
-
 
 <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/49f02be1-5e36-4e54-94d1-9aea0ed9b210" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/49f02be1-5e36-4e54-94d1-9aea0ed9b210" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/49f02be1-5e36-4e54-94d1-9aea0ed9b210" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/49f02be1-5e36-4e54-94d1-9aea0ed9b210" alt="Cornstarch <3" width="55" height="49"> 
 
