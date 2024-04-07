@@ -9,6 +9,8 @@
 
 **The Breakdown:**
 
+This C++ Program Uses The Terminal In Order To Do IO.
+
 Uses ADT of queue and stack in card game in which a varying amount of players 
 decided by user are dealed seven cards in a dealer stack of cards in the range of 1-13.
 There are 2 multiplied by the player size amount of each card in the dealers deck.
