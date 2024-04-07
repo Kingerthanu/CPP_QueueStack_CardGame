@@ -25,7 +25,9 @@ done by a player class which is the active player. The player places his card in
 compares his card value with the value given by the top of the discard stack and if his card is 
 greater than the top card, the player draws two cards from the dealers deck; if they are equal 
 the player draws one from the deal stack and if the player card is less than the top card
-draw none. This repeats for each player until either a player runs out of cards in which they win the
+draw none. 
+
+This repeats for each player until either a player runs out of cards in which they win the
 game; or until the deal stack runs out of cards and the discard stack has one or fewer cards in it
 which then makes a tie game
 
