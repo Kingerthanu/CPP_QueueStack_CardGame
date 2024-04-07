@@ -31,5 +31,8 @@ which then makes a tie game
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/67ac084b-f392-43dd-a1f6-74cc4ceeb4d7" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/67ac084b-f392-43dd-a1f6-74cc4ceeb4d7" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/67ac084b-f392-43dd-a1f6-74cc4ceeb4d7" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/67ac084b-f392-43dd-a1f6-74cc4ceeb4d7" alt="Cornstarch <3" width="55" height="49"> 
+
+**Features:**
 
 ![2024-01-1018-15-18_8-ezgif com-optimize](https://github.com/Kingerthanu/CPP_QueueStack_CardGame/assets/76754592/7e4d8f4a-ed06-4059-b40b-447b3f829fda)
